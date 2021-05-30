@@ -1,7 +1,3 @@
-College Helper
-
-This is a webserver that returns economic data for majors.
-
 # College Helper
 
 This folder contains the sources and economic data to pick a College Major and the top 5 colleges for each major.
